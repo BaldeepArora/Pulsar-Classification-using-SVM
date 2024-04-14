@@ -4,7 +4,7 @@
 This project applies a Support Vector Machine (SVM) classifier to identify pulsar stars from noise, based on the dataset provided by the High Time Resolution Universe Survey. The focus is on handling the class imbalance using Synthetic Minority Over-sampling Technique (SMOTE) and optimizing the SVM model with various kernels.
 
 ### Dataset used
-The dataset comprises several features derived from integrated pulse profiles and DM-SNR curves, which are typical indicators used for pulsar analysis. Data preprocessing steps include normalization and SMOTE for balancing class distribution.
+The dataset comprises several features derived from integrated pulse profiles and DM-SNR curves, which are typical indicators used for pulsar analysis. Data preprocessing steps include normalization and SMOTE for balancing class distribution.<br>
 URL link - https://archive.ics.uci.edu/dataset/372/htru2
 
 ### Features
